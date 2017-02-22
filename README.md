@@ -1,5 +1,5 @@
 # C# Anonymous Functions Demo
-C# Console application (.NET Core) showing diffrent ways to initialize a delegate.
+C# console application (.NET Core) showing diffrent ways to initialize a delegate.
 
 ## Setting Up The Application 
 To run the application for the first time, follow these steps.
@@ -15,6 +15,7 @@ To run the application for the first time, follow these steps.
 1. Open a command prompt or a powershell command window.
 2. Navigate to the app root folder
 3. Run the following command to run the project:
+
   ```shell
   dotnet run
-```
+  ```
