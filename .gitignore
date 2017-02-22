@@ -1,0 +1,8 @@
+# Dotnet build results
+[Bb]in/
+[Oo]bj/
+.vs/
+*.sln
+*.xproj
+*.user
+[Aa]ssemblyinfo.cs
